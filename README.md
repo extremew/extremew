@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- :vulcan_salute: Be welcomed!
+- :muscle:
+
 <!--
 **extremew/extremew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
